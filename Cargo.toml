@@ -1,10 +1,11 @@
 [package]
 name = "floating-cat"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["beetle"]
 license = "MIT"
-description = "allows f64s to be categorized"
+description = "allows floats to be categorized"
+repository = "https://github.com/Mearkatz/float-classify"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
